@@ -4,7 +4,7 @@ import { Route, Link } from 'react-router-dom'
 class Featured extends Component {
   render() {
     return (
-      <p>Featured</p>
+      <main><h1>Featured</h1></main>
     );
   }
 }

@@ -4,7 +4,7 @@ import { Route, Link } from 'react-router-dom'
 class Article extends Component {
   render() {
     return (
-      <p>Article</p>
+      <main><h1>Article</h1></main>
     );
   }
 }
