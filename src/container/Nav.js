@@ -8,7 +8,7 @@ class Nav extends Component {
   render() {
     return (
       <nav>
-        <ul data-selected={window.location.pathname}>{menu}</ul>
+        <ul data-selected={window.location.hash.split("#").join("")}>{menu}</ul>
       </nav>
     );
   }
