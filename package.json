@@ -1,7 +1,7 @@
 {
   "name": "polyreact",
   "version": "0.1.0",
-  "homepage": "https://koheishingaiHQ.github.io/publish-react-project-test-01",
+  "homepage": "https://koheishingaiHQ.github.io/publish-react-project",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
