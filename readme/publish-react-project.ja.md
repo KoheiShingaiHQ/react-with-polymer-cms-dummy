@@ -13,5 +13,3 @@ npm start
 ```
 
 → http://localhost:3000 を開くと、 `publish-react-project-advanced` の内容が表示されます。
-
-![create-react-app-root](https://c1.staticflickr.com/5/4509/37268153700_b95567ae0f_h.jpg)
