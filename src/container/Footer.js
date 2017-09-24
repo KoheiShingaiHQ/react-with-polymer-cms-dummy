@@ -4,7 +4,7 @@ import { Route, Link } from 'react-router-dom'
 class Footer extends Component {
   render() {
     return (
-      <footer>
+      <footer data-selected={window.location.hash.split("#/").join("")}>
         <section>
           <section>
             <div className="links">

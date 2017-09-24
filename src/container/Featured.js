@@ -4,7 +4,7 @@ import { Route, Link } from 'react-router-dom'
 class Featured extends Component {
   render() {
     return (
-      <main><polyreact-element></polyreact-element></main>
+      <featured-element></featured-element>
     );
   }
 }
