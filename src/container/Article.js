@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
 import { Route, Link } from 'react-router-dom'
+import ContentPanel from '../container/ContentPanel.js';
 
 class Article extends Component {
   render() {
     return (
-      <article-element></article-element>
+      <main id="article">
+        <ContentPanel></ContentPanel>
+      </main>
     );
   }
 }

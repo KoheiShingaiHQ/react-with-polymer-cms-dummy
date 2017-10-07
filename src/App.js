@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header title="react-with-polymer-layout"></Header>
+        <Header title="react-with-polymer-cms-dummy"></Header>
         <Route exact path="/" component={Featured} />
         <Route exact path="/about" component={About} />
         <Route exact path="/article" component={Article} />
